@@ -9,3 +9,9 @@ obj/
 *.user
 Publish/
 *.zip
+bin/
+obj/
+.vs/
+*.user
+Publish/
+*.zip
